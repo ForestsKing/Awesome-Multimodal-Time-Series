@@ -20,6 +20,14 @@ A curated list of paper, code, data, and other resources focus on multimodal tim
 
 ## Table of Contents
 
+- [Time Series Forecasting](#Time-Series-Forecasting)
+- [Time Series Reasoning](#Time-Series-Reasoning)
+- [Time Series Captioning](#Time-Series-Captioning)
+
 ---
 
-## 
+## Time Series Forecasting
+
+## Time Series Reasoning
+
+## Time Series Captioning
