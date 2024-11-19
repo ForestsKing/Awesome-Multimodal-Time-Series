@@ -20,11 +20,18 @@ A curated list of paper, code, data, and other resources focus on multimodal tim
 
 ## Table of Contents
 
+- [Time Series Foundation Model](#Time-Series-Foundation-Model)
 - [Time Series Forecasting](#Time-Series-Forecasting)
 - [Time Series Reasoning](#Time-Series-Reasoning)
 - [Time Series Captioning](#Time-Series-Captioning)
 
 ---
+
+## Time Series Foundation Model
+
+| Title                                                                                                                  | Venue |  Month  | Code |
+|:-----------------------------------------------------------------------------------------------------------------------|:-----:|:-------:|:----:|
+| [CLaSP: Learning Concepts for Time-Series Signals from Natural Language Supervision](https://arxiv.org/abs/2411.08397) | arXiv | 2024.11 | None |
 
 ## Time Series Forecasting
 
