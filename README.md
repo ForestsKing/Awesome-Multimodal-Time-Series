@@ -49,6 +49,7 @@ A curated list of paper, code, data, and other resources focus on multimodal tim
 
 | Title                                                                                                                                             | Venue |  Month  |                                  Code                                   |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|:-------:|:-----------------------------------------------------------------------:|
+| [ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning](https://arxiv.org/abs/2412.03104)            | arXiv | 2024.12 |             [Github](https://github.com/NetManAIOps/ChatTS)             |
 | [A Picture is Worth A Thousand Numbers: Enabling LLMs Reason about Time Series via Visualization](https://arxiv.org/abs/2411.06018)               | arXiv | 2024.11 |           [Github](https://github.com/haoxin1998/TimberBed-1)           |
 | [TimeSeriesExam: A Time Series Understanding Exam](https://arxiv.org/abs/2410.14752)                                                              | arXiv | 2024.10 | [HuggingFace](https://huggingface.co/datasets/AutonLab/TimeSeriesExam1) |
 | [Beyond Forecasting: Compositional Time Series Reasoning for End-to-End Task Execution](https://arxiv.org/abs/2410.04047)                         | arXiv | 2024.10 |                                  None                                   |
