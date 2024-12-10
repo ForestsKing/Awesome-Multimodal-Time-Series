@@ -20,23 +20,18 @@ A curated list of paper, code, data, and other resources focus on multimodal tim
 
 ## Table of Contents
 
-- [Time Series Foundation Model](#Time-Series-Foundation-Model)
 - [Time Series Forecasting](#Time-Series-Forecasting)
 - [Time Series Reasoning](#Time-Series-Reasoning)
 - [Time Series Captioning](#Time-Series-Captioning)
+- [Time Series Alignment](#Time-Series-Alignment)
 
 ---
-
-## Time Series Foundation Model
-
-| Title                                                                                                                  | Venue |  Month  | Code |
-|:-----------------------------------------------------------------------------------------------------------------------|:-----:|:-------:|:----:|
-| [CLaSP: Learning Concepts for Time-Series Signals from Natural Language Supervision](https://arxiv.org/abs/2411.08397) | arXiv | 2024.11 | None |
 
 ## Time Series Forecasting
 
 | Title                                                                                                                                       |  Venue  |  Month  |                                                            Code                                                             |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|:-------:|:-------:|:---------------------------------------------------------------------------------------------------------------------------:|
+| [ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data](https://arxiv.org/abs/0000.00000)         |  AAAI   | 2024.12 |                                      [Github](https://github.com/ForestsKing/ChatTime)                                      |
 | [Multi-Modal Forecaster: Jointly Predicting Time Series and Textual Data](https://arxiv.org/abs/2411.06735)                                 |  arXiv  | 2024.11 |                              [Github](https://github.com/Rose-STL-Lab/Multimodal_Forecasting)                               |
 | [From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection](https://arxiv.org/abs/2409.17515)  | NeurIPS | 2024.09 |                              [Github](https://github.com/ameliawong1996/From_News_to_Forecast)                              |
 | [Time-MMD: Multi-Domain Multimodal Dataset for Time Series Analysis](https://arxiv.org/abs/2406.08627)                                      | NeurIPS | 2024.06 |                                       [Github](https://github.com/AdityaLab/Time-MMD)                                       |
@@ -49,6 +44,7 @@ A curated list of paper, code, data, and other resources focus on multimodal tim
 
 | Title                                                                                                                                             | Venue |  Month  |                                  Code                                   |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|:-------:|:-----------------------------------------------------------------------:|
+| [ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data](https://arxiv.org/abs/0000.00000)               | AAAI  | 2024.12 |            [Github](https://github.com/ForestsKing/ChatTime)            |
 | [ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning](https://arxiv.org/abs/2412.03104)            | arXiv | 2024.12 |             [Github](https://github.com/NetManAIOps/ChatTS)             |
 | [A Picture is Worth A Thousand Numbers: Enabling LLMs Reason about Time Series via Visualization](https://arxiv.org/abs/2411.06018)               | arXiv | 2024.11 |           [Github](https://github.com/haoxin1998/TimberBed-1)           |
 | [TimeSeriesExam: A Time Series Understanding Exam](https://arxiv.org/abs/2410.14752)                                                              | arXiv | 2024.10 | [HuggingFace](https://huggingface.co/datasets/AutonLab/TimeSeriesExam1) |
@@ -63,3 +59,9 @@ A curated list of paper, code, data, and other resources focus on multimodal tim
 |:------------------------------------------------------------------------------------------------------------------------|:-----:|:-------:|:----:|
 | [Decoding Time Series with LLMs: A Multi-Agent Framework for Cross-Domain Annotation](https://arxiv.org/abs/2410.17462) | arXiv | 2024.10 | None |
 | [Towards Time Series Reasoning with LLMs](https://arxiv.org/abs/2409.11376)                                             | arXiv | 2024.09 | None |
+
+## Time Series Alignment
+
+| Title                                                                                                                  | Venue |  Month  | Code |
+|:-----------------------------------------------------------------------------------------------------------------------|:-----:|:-------:|:----:|
+| [CLaSP: Learning Concepts for Time-Series Signals from Natural Language Supervision](https://arxiv.org/abs/2411.08397) | arXiv | 2024.11 | None |
