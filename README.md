@@ -33,6 +33,7 @@ A curated list of paper, code, data, and other resources focus on multimodal tim
 |:--------------------------------------------------------------------------------------------------------------------------------------------|:-------:|:-------:|:---------------------------------------------------------------------------------------------------------------------------:|
 | [ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data](https://arxiv.org/abs/2412.11376)         |  AAAI   | 2024.12 |                                      [Github](https://github.com/ForestsKing/ChatTime)                                      |
 | [Multi-Modal Forecaster: Jointly Predicting Time Series and Textual Data](https://arxiv.org/abs/2411.06735)                                 |  arXiv  | 2024.11 |                              [Github](https://github.com/Rose-STL-Lab/Multimodal_Forecasting)                               |
+| [Context is Key: A Benchmark for Forecasting with Essential Textual Information](https://arxiv.org/abs/2410.18959)                          |  arXiv  | 2024.10 |                             [Github](https://github.com/ServiceNow/context-is-key-forecasting)                              |
 | [From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection](https://arxiv.org/abs/2409.17515)  | NeurIPS | 2024.09 |                              [Github](https://github.com/ameliawong1996/From_News_to_Forecast)                              |
 | [Time-MMD: Multi-Domain Multimodal Dataset for Time Series Analysis](https://arxiv.org/abs/2406.08627)                                      | NeurIPS | 2024.06 |                                       [Github](https://github.com/AdityaLab/Time-MMD)                                       |
 | [Beyond Trend and Periodicity: Guiding Time Series Forecasting with Textual Cues](https://arxiv.org/abs/2405.13522)                         |  arXiv  | 2024.05 |                                         [Github](https://github.com/vewoxic/tgtsf)                                          |
@@ -57,6 +58,7 @@ A curated list of paper, code, data, and other resources focus on multimodal tim
 
 | Title                                                                                                                   | Venue |  Month  | Code |
 |:------------------------------------------------------------------------------------------------------------------------|:-----:|:-------:|:----:|
+| [Time Series Language Model for Descriptive Caption Generation](https://www.arxiv.org/abs/2501.01832)                   | arXiv | 2025.01 | None |
 | [Decoding Time Series with LLMs: A Multi-Agent Framework for Cross-Domain Annotation](https://arxiv.org/abs/2410.17462) | arXiv | 2024.10 | None |
 | [Towards Time Series Reasoning with LLMs](https://arxiv.org/abs/2409.11376)                                             | arXiv | 2024.09 | None |
 
