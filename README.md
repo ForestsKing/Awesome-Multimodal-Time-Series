@@ -69,6 +69,7 @@ A curated list of paper, code, data, and other resources focus on multimodal tim
 | Title                                                                                                                   | Venue |  Month  | Code |
 |:------------------------------------------------------------------------------------------------------------------------|:-----:|:-------:|:----:|
 | [Time Series Language Model for Descriptive Caption Generation](https://www.arxiv.org/abs/2501.01832)                   | arXiv | 2025.01 | None |
+| [TADACap: Time-series Adaptive Domain-Aware Captioning](https://arxiv.org/abs/2504.11441)                               | ICAIF | 2024.12 | None |
 | [Decoding Time Series with LLMs: A Multi-Agent Framework for Cross-Domain Annotation](https://arxiv.org/abs/2410.17462) | arXiv | 2024.10 | None |
 | [Towards Time Series Reasoning with LLMs](https://arxiv.org/abs/2409.11376)                                             | arXiv | 2024.09 | None |
 
