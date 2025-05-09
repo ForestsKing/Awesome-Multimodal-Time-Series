@@ -23,6 +23,7 @@ A curated list of paper, code, data, and other resources focus on multimodal tim
 - [Time Series Forecasting](#Time-Series-Forecasting)
 - [Time Series Reasoning](#Time-Series-Reasoning)
 - [Time Series Captioning](#Time-Series-Captioning)
+- [Time Series Generation](#Time-Series-Generation)
 - [Time Series Alignment](#Time-Series-Alignment)
 
 ---
@@ -74,6 +75,12 @@ A curated list of paper, code, data, and other resources focus on multimodal tim
 | [TADACap: Time-series Adaptive Domain-Aware Captioning](https://arxiv.org/abs/2504.11441)                               | ICAIF | 2024.12 | None |
 | [Decoding Time Series with LLMs: A Multi-Agent Framework for Cross-Domain Annotation](https://arxiv.org/abs/2410.17462) | arXiv | 2024.10 | None |
 | [Towards Time Series Reasoning with LLMs](https://arxiv.org/abs/2409.11376)                                             | arXiv | 2024.09 | None |
+
+## Time Series Generation
+
+| Title                                                                                                                | Venue |  Month  |                    Code                    |
+|:---------------------------------------------------------------------------------------------------------------------|:-----:|:-------:|:------------------------------------------:|
+| [T2S: High-resolution Time Series Generation with Text-to-Series Diffusion Models](https://arxiv.org/abs/2505.02417) | IJCAI | 2025.05 | [Github](https://github.com/WinfredGe/T2S) |
 
 ## Time Series Alignment
 
