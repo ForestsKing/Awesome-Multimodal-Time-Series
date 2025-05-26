@@ -49,6 +49,7 @@ A curated list of paper, code, data, and other resources focus on multimodal tim
 | [Language Models Still Struggle to Zero-shot Reason about Time Series](https://arxiv.org/abs/2404.11757)                                           |  arXiv  | 2024.04 |                                 [Github](https://github.com/behavioral-data/TSandLanguage)                                  |
 | [Towards Explainable Traffic Flow Prediction with Large Language Models](https://arxiv.org/abs/2404.02937)                                         |  arXiv  | 2024.04 |                                         [Github](https://github.com/guoxs/xtp-llm)                                          |
 | [GPT4MTS: Prompt-Based Large Language Model for Multimodal Time-Series Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/30383)        |  AAAI   | 2024.03 | [Github](https://github.com/Flora-jia-jfr/GPT4MTS-Prompt-based-Large-Language-Model-for-Multimodal-Time-series-Forecasting) |
+| [Well Googled is Half Done: Multimodal Forecasting of New Fashion Product Sales with Image-based Google Trends](https://arxiv.org/pdf/2109.09824)        |  Journal of Forecasting   | 2021.09 | [Github](https://github.com/HumaticsLAB/GTM-Transformer) |
 
 ## Time Series Reasoning
 
