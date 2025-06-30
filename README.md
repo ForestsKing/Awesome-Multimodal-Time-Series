@@ -55,6 +55,7 @@ A curated list of paper, code, data, and other resources focus on multimodal tim
 
 | Title                                                                                                                                             | Venue |  Month  |                                  Code                                   |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|:-------:|:-----------------------------------------------------------------------:|
+| [ITFormer: Bridging Time Series and Natural Language for Multi-Modal QA with Large-Scale Multitask Dataset](https://arxiv.org/abs/2506.20093)     | arXiv | 2025.06 |          [Github](https://pandalin98.github.io/itformer_site)           |
 | [MTBench: A Multimodal Time Series Benchmark for Temporal Reasoning and Question Answering](https://arxiv.org/abs/2503.16858)                     | arXiv | 2025.03 |    [Github](https://github.com/Graph-and-Geometric-Learning/MTBench)    |
 | [Chat-TS: Enhancing Multi-Modal Reasoning Over Time-Series and Natural Language Data](https://arxiv.org/abs/2503.10883)                           | arXiv | 2025.03 |                                  None                                   |
 | [Time-MQA: Time Series Multi-Task Question Answering with Context Enhancement](https://www.arxiv.org/abs/2503.01875)                              | arXiv | 2025.02 |              [HuggingFace](https://huggingface.co/Time-QA)              |
